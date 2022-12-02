@@ -1,5 +1,6 @@
-package be.mdelbar.aoc2022;
+package be.mdelbar.aoc2022.day1;
 
+import be.mdelbar.aoc2022.AOCDay;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

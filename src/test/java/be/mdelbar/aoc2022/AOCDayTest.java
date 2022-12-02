@@ -1,5 +1,6 @@
 package be.mdelbar.aoc2022;
 
+import be.mdelbar.aoc2022.day2.Day2;
 import org.junit.jupiter.api.Test;
 
 import java.io.IOException;
@@ -8,9 +9,9 @@ import java.nio.file.Path;
 
 class AOCDayTest {
 
-    private static final String INPUT = "src/test/resources/day1/input.txt";
+    private static final String INPUT = "src/test/resources/day2/input.txt";
 
-    private final AOCDay day = new Day1();
+    private final AOCDay day = new Day2();
 
 
     @Test
